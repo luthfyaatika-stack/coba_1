@@ -3,3 +3,7 @@ makanan ringan
 minum 
 varian jajan 
 varian minum
+paket ayam penyet
+paket ayam bakar 1
+paket ayam bakar 2
+ati ampela
